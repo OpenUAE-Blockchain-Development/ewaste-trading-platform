@@ -29,3 +29,5 @@ The project is inspired by [Idea #4](https://github.com/Call-for-Code/Solution-S
 
 ## Design Prototypes
 
+- [Figma](https://www.figma.com/file/9LLEjDJLk9nG3qSwU56D2A/Call-for-Code-Challenge?node-id=1%3A11)
+- [Color Paltte](https://colorhunt.co/palette/334257476072548ca8eeeeee)
